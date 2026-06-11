@@ -1,1 +1,48 @@
+# Erik Johnson
+
+### Investigator | IT Specialist | Cybersecurity | DFIR | Assessor | Scientist
+
+---
+
+## Mission
+
+I investigate problems, follow evidence, and deliver results.
+
+I bring a multidisciplinary approach combining investigative experience, information technology, cybersecurity, and digital forensics to solve complex technical and real-world challenges.
+
+---
+
+## Core Capabilities
+
+- Investigations (Digital & Real-World Contexts)
+- Cybersecurity Analysis & Incident Response
+- Digital Forensics (DFIR)
+- OSINT & Intelligence Gathering
+- IT Systems & Troubleshooting
+- Risk Assessment & Security Evaluation
+
+---
+
+## Introduction
+
+(Video introduction coming soon)
+
+---
+
+## Featured Work
+
+- [DFIR Case Study](case-study-dfir.md)
+
+---
+
+## Tools & Methodology
+
+(Coming next)
+
+---
+
+## Contact
+
+Email: erikt.johnson@outlook.com  
+GitHub: https://github.com/eriktjohnson
 
