@@ -1,6 +1,6 @@
 # Erik Johnson
 
-### Investigator | IT Specialist | Cybersecurity | DFIR | CMMC 2.0 | NIST SP 800-53 | NIST Framworks
+### Investigator | IT Specialist | Cybersecurity | DFIR | CMMC 2.0 | NIST Frameworks
 
 ---
 
