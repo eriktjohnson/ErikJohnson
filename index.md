@@ -1,3 +1,6 @@
+[Home](index.html) | [Case Studies](case-studies.html) | [Tools](tools.html) | [Contact](contact.html)
+
+---
 # Erik Johnson
 
 ### Investigator | IT Specialist | Cybersecurity | DFIR | CMMC 2.0 | NIST Frameworks
