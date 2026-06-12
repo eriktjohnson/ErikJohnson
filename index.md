@@ -7,10 +7,6 @@
 
 ---
 
-All investigations and demonstrations adhere to principles of confidentiality, ethical conduct, and responsible handling of sensitive information.
-
----
-
 ## Mission
 
 I investigate problems, follow evidence, and deliver results.
@@ -27,6 +23,12 @@ I bring a multidisciplinary approach combining investigative experience, informa
 - OSINT & Intelligence Gathering
 - IT Systems & Troubleshooting
 - Risk Assessment & Security Evaluation
+
+---
+
+## Professional Standards
+
+All investigations and demonstrations adhere to principles of confidentiality, ethical conduct, and responsible handling of sensitive information.
 
 ---
 
