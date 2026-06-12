@@ -40,7 +40,7 @@ All investigations and demonstrations adhere to principles of confidentiality, e
 
 ## Featured Work
 
-- [DFIR Case Study](case-study-dfir.md)
+- [DFIR Case Study](case-study-dfir.html)
 
 ---
 
