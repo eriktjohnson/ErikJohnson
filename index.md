@@ -3,6 +3,8 @@
 ---
 # Erik Johnson
 
+All investigations and demonstrations adhere to principles of confidentiality, ethical conduct, and responsible handling of sensitive information.
+
 ### Investigator | IT Specialist | Cybersecurity | DFIR | CMMC 2.0 | NIST Frameworks
 
 ---
