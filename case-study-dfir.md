@@ -3,7 +3,8 @@
 ---
 # Case Study: Digital Forensics Investigation (Simulation)
 
-**Note:** This case study represents a simulated or sanitized investigation. Any real-world elements have been anonymized to protect confidentiality.
+**Note:**
+This case study represents a simulated or sanitized investigation. Any real-world elements have been anonymized to protect confidentiality.
 ---
 
 ## Objective
