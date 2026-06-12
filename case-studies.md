@@ -10,11 +10,13 @@ All case studies and demonstrations presented on this site are either simulated 
 
 Any references to real-world work experience have been modified to remove or anonymize all sensitive, confidential, or identifying information in accordance with ethical, legal, and professional standards.
 
+All investigations and demonstrations adhere to principles of confidentiality, ethical conduct, and responsible handling of sensitive information.
+
 ---
 
-This section contains documented investigations and technical analysis demonstrating my methodology, tools, and investigative approach.
+## Overview
 
-All investigations and demonstrations adhere to principles of confidentiality, ethical conduct, and responsible handling of sensitive information.
+This section contains documented investigations and technical analysis demonstrating my methodology, tools, and investigative approach.
 
 ## Digital Forensics
 
