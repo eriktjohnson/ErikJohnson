@@ -10,4 +10,4 @@ This section contains documented investigations and technical analysis demonstra
 
 ## Digital Forensics
 
-- case-study-dfir.html
+- [DFIR](case-study-dfir.html)
