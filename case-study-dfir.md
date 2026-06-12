@@ -3,6 +3,9 @@
 ---
 # Case Study: Digital Forensics Investigation (Simulation)
 
+**Note:** This case study represents a simulated or sanitized investigation. Any real-world elements have been anonymized to protect confidentiality.
+---
+
 ## Objective
 
 Investigate a suspected compromised Windows system and determine indicators of malicious activity.
