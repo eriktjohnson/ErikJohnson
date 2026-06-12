@@ -1,10 +1,12 @@
 [Home](index.html) | [Case Studies](case-studies.html) | [Tools](tools.html) | [Focus Areas](focus-areas.html) | [Contact](contact.html)
 
 ---
+
 # Case Study: Digital Forensics Investigation (Simulation)
 
-**Note:**
+**Note:**  
 This case study represents a simulated or sanitized investigation. Any real-world elements have been anonymized to protect confidentiality.
+
 ---
 
 ## Objective
@@ -15,17 +17,17 @@ Investigate a suspected compromised Windows system and determine indicators of m
 
 ## Environment
 
-- Virtualized Windows system
-- CSI Linux forensic workstation
+- Virtualized Windows system  
+- CSI Linux forensic workstation  
 
 ---
 
 ## Tools Used
 
-- Volatility
-- Autopsy
-- Wireshark
-- Native system utilities
+- Volatility  
+- Autopsy  
+- Wireshark  
+- Native system utilities  
 
 ---
 
@@ -42,15 +44,21 @@ Investigate a suspected compromised Windows system and determine indicators of m
 
 ## Findings
 
-- Suspicious process activity identified in memory  
-- Indicators consistent with unauthorized execution  
-- Potential persistence mechanism discovered  
+- Suspicious process activity identified in memory analysis, indicating abnormal execution behavior  
+- Indicators consistent with unauthorized or potentially malicious execution observed  
+- Evidence of potential persistence mechanisms identified within the system environment  
 
 ---
 
 ## Conclusion
 
-Analysis indicates that the system was likely compromised and required further remediation and containment.
+Based on the analysis conducted, the system exhibits indicators consistent with compromise. Further investigation and remediation actions are recommended to contain and eliminate potential threats.
+
+---
+
+## Analyst Notes
+
+The investigation required correlating memory artifacts with system-level behavior to identify anomalies. A structured methodology ensured that findings were supported by observable evidence rather than assumptions.
 
 ---
 
@@ -63,4 +71,4 @@ Analysis indicates that the system was likely compromised and required further r
 
 ## Video Demonstration
 
-(Video will be embedded soon)
+A recorded walkthrough of this investigation will be embedded here, demonstrating the tools, methodology, and analytical process used during this case study.
