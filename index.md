@@ -35,7 +35,6 @@ All investigations and demonstrations adhere to principles of confidentiality, e
 ## Introduction
 
 This section includes a short introduction video providing an overview of my background, approach, and how I apply investigative and technical methodologies to solve complex problems.
-``
 
 ---
 
