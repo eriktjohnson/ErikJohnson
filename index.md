@@ -7,7 +7,7 @@
 
 ---
 
-## Mission
+## Mission & Approach
 
 I investigate problems, follow evidence, and deliver results.
 
@@ -28,13 +28,14 @@ I bring a multidisciplinary approach combining investigative experience, informa
 
 ## Professional Standards
 
-All investigations and demonstrations adhere to principles of confidentiality, ethical conduct, and responsible handling of sensitive information.
+All investigations and demonstrations adhere to principles of confidentiality, ethical conduct, and the responsible handling of sensitive information, consistent with professional and compliance-driven environments.
 
 ---
 
 ## Introduction
 
-(Video introduction coming soon)
+This short introduction video provides an overview of my background, approach, and how I apply investigative and technical methodologies to solve complex problems.
+``
 
 ---
 
