@@ -18,6 +18,8 @@ All investigations and demonstrations adhere to principles of confidentiality, e
 
 This section contains documented investigations and technical analysis demonstrating my methodology, tools, and investigative approach.
 
-## Digital Forensics
+---
 
-- [DFIR](case-study-dfir.html)
+## Digital Forensics Investigations
+
+- [Digital Forensics Investigation (DFIR Case Study)](case-study-dfir.html)
