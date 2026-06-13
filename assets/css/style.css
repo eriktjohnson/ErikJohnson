@@ -1,6 +1,1 @@
-@import "{{ site.theme }}";
 
-/* Hide the GitHub button */
-a.btn {
-    display: none;
-}
